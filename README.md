@@ -77,18 +77,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suresh0703&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suresh0703&layout=compact&theme=nord"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
